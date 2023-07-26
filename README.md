@@ -1,5 +1,5 @@
 # OpenVpn-AlwaysUP WIP 🚧
-This package tries it best to keep your VPN connection up. And mails you if it cannot re-connect.
+This package tries it best to keep your VPN connection in a linux based OS up. And mails you if it cannot re-connect.
 
 ## Roadmap          
 - [ ] VPN status verification
