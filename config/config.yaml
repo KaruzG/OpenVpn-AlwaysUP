@@ -1,0 +1,23 @@
+# OpenVPN configuration file
+ vpnProfile: './profile.opvpn'
+
+ # Verification refresh rate (Seconds)
+ refreshRate: 120
+
+
+
+# ---------------- SMTP CONFIG ----------------
+
+# Mail server ex: outlook.office365.com
+server:  
+
+# Port used by the mail server (587 default)
+port: 587
+
+# User that sends the mail x@domain.com
+user: 
+
+# Password of user
+password: 
+
+# ----------------------------------------------
