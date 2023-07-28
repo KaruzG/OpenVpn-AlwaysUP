@@ -1,1 +1,3 @@
 #!/bin/bash
+
+# Self explanatory
