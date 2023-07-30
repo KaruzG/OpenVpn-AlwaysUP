@@ -10,7 +10,9 @@ This package tries it best to keep your VPN connection in a linux based OS up. A
     - [ ] Logs      
 - [ ] Log files cleaner
 - [ ] Automatic openvpn installation
-    - [ ] Check if installed & up to date
+    - [X] Check if installed
+    - [X] Install
+    - [ ] Check updates
     - [ ] Update function   
 - [ ] Automatic vpn profile installation and configuration
     - [ ] Ask for .opvpn config file
