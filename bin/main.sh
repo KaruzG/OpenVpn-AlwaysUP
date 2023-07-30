@@ -1,3 +1,3 @@
 #!/bin/bash
 
-# Sceipt that reconects and checks status
+# Script that reconects and checks status

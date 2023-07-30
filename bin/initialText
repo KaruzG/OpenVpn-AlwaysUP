@@ -1,0 +1,21 @@
+############################ OpenVPN- AlwaysUP ############################
+
+If you continue you are are confirming that you have read and accept
+DISCLAIMER file.
+
+If you dont agree cancel this setup and remove the files.
+
+###########################################################################
+######################## Made by @KaruzG (github) #########################
+###########################################################################
+
+This setup file is going to:
+
+1. Install OpenVPN if not installed
+
+2. Pre-configure some parammeters (VPN profile, refresh rate...)
+
+3. Config contab
+
+
+Press ENTER to continue:
